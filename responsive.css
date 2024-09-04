@@ -1,0 +1,109 @@
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+    body {
+        /* background-color: purple; */
+    }
+
+    .grp2 {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .navbar h4 {
+        font-size: 10px;
+    }
+
+    .grp3 button {
+        font-size: 10px;
+       
+    }
+    .hero-right img{
+        display: none;
+    }
+    .heroleft{
+        width: 100%;
+        
+    }
+    .hero-left h4{
+        font-size: 45px;
+        
+    }
+    .dev{
+        font-size: 45px;
+    }
+    .hero-left p{
+        font-size: 20px;
+        width: 100%;
+    }
+    .sicon {
+        height: 60px;
+        width: 60px;
+        
+    }
+    .myskill,.heading{
+        margin-top:70px;
+    }
+    .expcard{
+        width: 100%;
+        padding: 10px;
+    }
+    .expcard div:first-child{
+        font-size: 20px;
+    }
+    .expcard div h2{
+        font-size: 15px;
+    }
+    .hero{
+        height: auto;
+        flex-direction: column;
+    }
+    .heroleft1{
+        width: 100%;
+    }
+    .heroleft1 img{
+        width: 100%;
+    }
+    .heroright1{
+        width: 100%;
+        padding-left: 10px;
+    }
+    .project{
+        height: auto;
+        flex-direction: column;
+        gap: 10px;
+        padding: 20px;
+        border: 2px solid white;
+        border-radius: 20px;
+        margin: 8px 0px;
+    }
+    .project-img{
+        width: 100%;
+       
+    }
+    .project-img img{
+        width: 100%;
+    }
+    .project-text{
+        width: 100%;
+        gap: 5px;
+    
+    }
+    .project-text h1{
+        font-size: 25px;
+    }
+    .contact-form{
+        width: 100%;
+        padding-left: 40px;
+    }
+    
+    .contact-text{
+        display: none;
+    }
+    .social button{
+        height: 30px;
+        width: 80px;
+        font-size: 20px;
+    }
+
+
+}
