@@ -44,7 +44,7 @@ a{
 }
 
 h4 {
-    padding-left: 40px;
+    /* padding-left: 40px; */
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -98,7 +98,7 @@ h4 {
 }
 
 .dev {
-    font-size: 40px;
+    font-size: 60px;
     -webkit-text-stroke: .5px black;
     color: transparent;
 }
