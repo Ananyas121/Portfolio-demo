@@ -94,6 +94,7 @@ h4 {
     font-size: 65px;
     font-weight: 400;
     line-height: 1;
+    padding-left: 35px;
 
 }
 
@@ -183,6 +184,7 @@ h4 {
     gap: 30px;
     align-items: center;
     justify-content: center;
+    transition: all 0.5s ease;
 }
 
 .card:hover {
